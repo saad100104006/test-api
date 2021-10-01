@@ -1,0 +1,9 @@
+{
+   "location" : {
+        "result": "success",
+        "content": [{"latitude": "12.2344343", "longitude":"-16.34343343"}],
+        "error_des": "",
+        "error_code": 0,
+        "images_prefix": "http://localhost:8000/storage/"
+    }
+}
